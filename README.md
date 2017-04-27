@@ -1,4 +1,4 @@
-# VideoCalling-Integration-Using-Sinch-SDK
+# Video Call-Implementation-Using-Sinch-SDK
 Video Calling implementation Using Sinch SDK
 
 
